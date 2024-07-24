@@ -1,0 +1,18 @@
+UserID: 2062628281 | Time: 2024-07-24 08:33:47.453180 | Command: /attack | Target: 20.235.53.114 | Port: 12765 | Time: 560
+Username: @Mahadevsanni
+Target: 20.235.53.114
+Port: 12765
+Time: 560
+
+UserID: 2062628281 | Time: 2024-07-24 09:07:54.760526 | Command: /attack | Target: 52.172.4.242 | Port: 19119 | Time: 120
+Username: @Mahadevsanni
+Target: 52.172.4.242
+Port: 19119
+Time: 120
+
+UserID: 2062628281 | Time: 2024-07-24 10:39:07.231017 | Command: /attack | Target: 20.204.179.34 | Port: 15625 | Time: 580
+Username: @Mahadevsanni
+Target: 20.204.179.34
+Port: 15625
+Time: 580
+
